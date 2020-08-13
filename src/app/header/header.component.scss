@@ -1,0 +1,58 @@
+.navbar{
+    justify-content: space-between;
+    background-color:white;
+    box-shadow: 0px 1px 10px #999;
+}
+
+.header_product-logo-text{
+    font-size: 24px;
+    font-family: "Google Sans",Helvetica;
+    letter-spacing: 0em;   
+}
+a{
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #5f6368;
+}
+  span{
+    font-family: "Google Sans",Roboto,Arial,Helvetica,sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        height: 48px;
+        letter-spacing: .25px;
+        padding-right: 16px;
+        vertical-align: middle;
+        width: 100%;
+        background-color: none;
+        color: #5f6368;
+    }
+
+.header_product-button{
+width: 170px;
+background-color: #1a73e8;;
+font-size:14px;
+font-style:normal;
+font-weight:500;
+height:42px;
+border: none;
+font-family:"Google Sans", Roboto, Arial, Helvetica, sans-serif;
+letter-spacing: 0.75px;
+text-align: center;
+
+border-top-color:rgb(255, 255, 255);
+border-top-left-radius:2px;
+border-top-right-radius:2px;
+border-top-style:none;
+border-top-width:0px;
+
+border-left-color:rgb(255, 255, 255);
+border-left-style:none;
+border-left-width:0px;
+background-size:auto;
+
+border-bottom-color:rgb(255, 255, 255);
+border-bottom-left-radius:2px;
+border-bottom-right-radius:2px;
+border-bottom-style:none;
+border-bottom-width:0px;
+}

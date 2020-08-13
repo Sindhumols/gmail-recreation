@@ -1,0 +1,43 @@
+.header_product-button{
+    width: 170px;
+    background-color: #1a73e8;;
+    font-size:14px;
+    font-style:normal;
+    font-weight:500;
+    height:42px;
+    border: none;
+    font-family:"Google Sans", Roboto, Arial, Helvetica, sans-serif;
+    letter-spacing: 0.75px;
+    text-align: center;
+    
+    border-top-color:rgb(255, 255, 255);
+    border-top-left-radius:2px;
+    border-top-right-radius:2px;
+    border-top-style:none;
+    border-top-width:0px;
+    
+    border-left-color:rgb(255, 255, 255);
+    border-left-style:none;
+    border-left-width:0px;
+    background-size:auto;
+    
+    border-bottom-color:rgb(255, 255, 255);
+    border-bottom-left-radius:2px;
+    border-bottom-right-radius:2px;
+    border-bottom-style:none;
+    border-bottom-width:0px;
+    display: flex;
+    justify-content: center;
+}
+h1{
+ 
+    font-size: 36px;
+    line-height:1.33333;
+    letter-spacing: 0;
+    font-weight: 500;
+    font-family: "Google Sans",Roboto,Arial,Helvetica,sans-serif;
+    color:#202124;
+    word-wrap:initial;
+    display:block;
+    box-sizing:border-box;
+}
